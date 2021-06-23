@@ -8,7 +8,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/prxtenses/Simples-base-de-bot-para-discord>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd simples-base-de-bot-para-discord
